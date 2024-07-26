@@ -1,3 +1,5 @@
+![logo](https://github.com/shivanibiroriya21/shivani-biroriya-/blob/main/images.jpeg)
+ 
 <h1 align="center">Hi 👋, I'm Shivani Biroriya</h1>
 <h3 align="center">A MCA student exploring the depths of cybersecurity and ethical hacking ,currently working with Java.</h3>
 <img align="right" alt="coding " width= "400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
